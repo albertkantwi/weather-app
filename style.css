@@ -41,13 +41,15 @@ body {
 }
 
 .search button {
-    border: 1px solid #ebfffc;
+    border: 0;
     outline: 0;
-    background: #5b5a8a;
-    color: #ebfffc;
-    font-size: 18px;
-    border-radius: 10px;
-    padding: 20px 35px;
+    background: #ebfffc;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
     cursor: pointer;
 }
 
+.search button img {
+    width: 16px;
+}
