@@ -37,7 +37,7 @@
 
 ## 🚀 Live Demo
 
-- You can see the demo [Here]()
+- You can see the demo [Here](https://albertkantwi.github.io/weather-app/)
 
 ## Key Features
 
